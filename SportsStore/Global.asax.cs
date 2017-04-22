@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using SportsStore.WebUI.Infrastructure;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -13,9 +14,13 @@ namespace SportsStore
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
-            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
+
+			FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-        }
+
+			ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
+			
+		}
     }
 }
