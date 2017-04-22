@@ -18,7 +18,7 @@ namespace SportsStore
 			FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-
+			// in het boek wordt er ook WebApiConfig.Register(GlobalConfiguration.Configuration);
 			ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
 			
 		}
