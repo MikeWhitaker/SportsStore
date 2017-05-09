@@ -11,7 +11,8 @@
         <div class="title">SPORTS STORE</div>
     </div>
     <div id="categories">
-        We will put something useful here later
+        @*Hier zou je ook action kunnen gebruiken, zie hoofd stuk 8 pagina: 209 *@
+        @{ Html.RenderAction("Menu", "Nav"); }
     </div>
     <div id="content">
         @RenderBody()
