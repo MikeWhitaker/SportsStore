@@ -15,7 +15,6 @@ D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\
 D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
 D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
 D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Castle.Core.dll
-D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
 D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.dll
