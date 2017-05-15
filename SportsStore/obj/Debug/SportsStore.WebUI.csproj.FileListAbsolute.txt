@@ -88,3 +88,4 @@ D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.S
 D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.dll
 D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.pdb
+D:\data\repos\VisualStudio\Projects\SportsStore\SportsStore\bin\SportsStore.Domain.dll.config
